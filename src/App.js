@@ -1,25 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Person from "./components/Person/Person";
 
-function App() {
+// JSX : JavaScript XML
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div>Header</div>
+      <p>Test Paragraph</p>
+      <h1>Title</h1>
+      <Person />
+      <div>Footer</div>
     </div>
   );
-}
+};
 
 export default App;
