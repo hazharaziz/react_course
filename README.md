@@ -13,3 +13,10 @@
 - File Structure
 - Events and Event Listeners
 - How Components are rendered in React
+
+## Lecture 5
+
+- Callbacks
+- Destructuring
+- Filter
+- Find
