@@ -6,7 +6,7 @@
 - Props
 - Add js logic to components
 
-## Lecture 4
+## Lecture 4 \*
 
 - Splitting Components
 - Concept of Composition (children)
